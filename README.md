@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Exploring Tech.
 - 🌱 I’m currently learning Google Cloud Platform.
 - 👯 I’m looking to collaborate on Anything.
-- 🤔 I’m looking for help with Blochchain.
+- 🤔 I’m looking for help with Blockchain.
 - 💬 Ask me about Hackathons , Algorithms , Data Structure and Machine Learning 
 - 📫 How to reach me: rgarg8438@gmail.com
 - 😄 Pronouns: him/he
